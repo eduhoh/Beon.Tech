@@ -23,4 +23,4 @@ fig1=px.bar(df2,x='Country Name',y='Value',barmode='stack',title='Max Value for 
 
 fig1.show()
 
-print(df) 
+#print(df) 
